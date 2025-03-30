@@ -38,3 +38,7 @@
 <h2 align="center"> Gituhb Stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-savaimul&layout=compact&theme=dark" alt="Top Languages Card"></div>
+
+<h3 align="center">✍️</h3>
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"></div>

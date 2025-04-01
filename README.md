@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Gaurav 👋</h1>
 <div align="center">
-<p>I'm <strong>Gaurav Savaimul</strong> , a <strong><em>Java develope</em></strong><em>r</em> who loves solving problems and squashing bugs.</p>
+<p>I'm <strong>Gaurav Savaimul</strong> , a <strong><em>Java developer</em></strong><em></em> who loves solving problems and squashing bugs.</p>
 
-<p>🚀 Currently <em>strengthening</em> my Java skills and <em>building cool projects</em> along the way! 💪💻</p>
+<p>🚀 Currently <strong><em>strengthening</strong></em> my <strong>Java skills</strong> and <em>building cool projects</em> along the way! 💪💻</p>
 
 <p>🌐 I also explore <strong>web development</strong>, <strong>Android apps</strong>, and <strong>data science</strong>—because why stop at just one thing? 😆</p>
 

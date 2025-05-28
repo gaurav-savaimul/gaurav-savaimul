@@ -3,11 +3,11 @@
 <div align="center">
   <p>I'm <strong>Gaurav Savaimul</strong>, a <strong><em>Java developer</em></strong> who loves solving problems and squashing bugs.</p>
 
-  <p>🚀 Currently <strong><em>strengthening</strong></em> my <strong>Java skills</strong> and <em>building cool projects</em> along the way! 💪💻</p>
+  <p> Currently <strong><em>strengthening</strong></em> my <strong>Java skills</strong> and <em>building cool projects</em> along the way! </p>
 
-  <p>🌐 I also explore <strong>web development</strong>, <strong>Android apps</strong>, and <strong>data science</strong>—because why stop at just one thing? 😆</p>
+  <p> I also explore <strong>web development</strong>, <strong>Android apps</strong>, and <strong>data science</strong>—because why stop at just one thing? </p>
 
-  <p>🎮 When I’m not coding, I’m either <strong>debugging</strong>… or watching new <strong>stuff I can learn</strong> (once I actually finish my current ones 🙃).</p>
+  <p> When I’m not coding, I’m either <strong>debugging</strong>… or watching new <strong>stuff I can learn</strong> (once I actually finish my current ones ).</p>
 
   <p>📩 Feel free to connect with me!</p>
 

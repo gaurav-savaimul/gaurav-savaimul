@@ -26,8 +26,8 @@
 <h2 align="center">🎓 Academic Background</h2>
 
 <div align="center">
-  <p>🎓 <strong>Bachelor of Engineering in Computer Science Engineering (2024)</strong> from <em>JDIET, Yavatmal (Sant Gadge Baba Amravati University)</em>.</p>
-  <p>🎓 <strong>Diploma in Computer Engineering (2021)</strong> from <em>Government Polytechnic, Yavatmal</em>.</p>
+  <p> <strong>Bachelor of Engineering in Computer Science Engineering (2024)</strong> from <em>JDIET, Yavatmal (Sant Gadge Baba Amravati University)</em>.</p>
+  <p> <strong>Diploma in Computer Engineering (2021)</strong> from <em>Government Polytechnic, Yavatmal</em>.</p>
 </div>
 
 <br/>
